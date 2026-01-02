@@ -28,14 +28,15 @@ body{
 }
 
 h1{
-  color: rgb(0, 99, 23);
+  color: rgb(0, 255, 234);
+  background: navy;
   padding-top: 400px;
   text-shadow: #ffcc00 1px 0 2px;
 }
 
 h2{
-  color: rgb(213, 0, 0);
-  text-shadow: #ffcc00 1px 0 2px;
+  color: rgb(0, 255, 234);
+  background: navy;
   font-style: italic;
 }
 
